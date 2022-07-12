@@ -129,9 +129,40 @@ h2  {
     width: 690px;
 }
 
+.calltoaction  {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calltoactioncontainer  {
+    width: 900px;
+    height: 200px;
+    background-color: #3882F6;
+    border-radius: 18px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 
+}
+.ctcbutton  {
+    color: white;
+    background-color: #3882F6;
+    border: solid 3px white;
+    border-radius: 18px;
+    padding: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    
 
-
+}
+.calltoactioncontainer p {
+    color:white;
+}
 
 
 
